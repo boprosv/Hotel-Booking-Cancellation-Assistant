@@ -25,6 +25,9 @@ After running the model I got this score, which is pretty good for this type of 
 
 ![image alt](https://github.com/boprosv/Hotel-Booking-Cancellation-Assistant/blob/main/Screenshot%202025-02-05%20125329.png?raw=true)
 
-Added generated probabilities to the original data frame.
+Generates Predictions
+Predicts the probability of cancellation for each booking.
+Saves the results into two CSV files:
+booking_cancellation_probabilities_full.csv → Full dataset with probabilities.
 
 ![image alt](https://github.com/boprosv/Hotel-Booking-Cancellation-Assistant/blob/main/Screenshot%202025-02-05%20130930.png?raw=true)
