@@ -31,3 +31,9 @@ Saves the results into a CSV file:
 booking_cancellation_probabilities_full.csv → Full dataset with probabilities.
 
 ![image alt](https://github.com/boprosv/Hotel-Booking-Cancellation-Assistant/blob/main/Screenshot%202025-02-05%20130930.png?raw=true)
+
+
+This AI-powered web application helps hotel managers and analysts explore and analyze hotel booking cancellation data in an interactive and user-friendly way. It allows users to ask questions in natural language, and the AI automatically converts them into valid Pandas queries to retrieve relevant booking data.
+
+The app is built using Streamlit, OpenAI’s GPT model, and Pandas to provide a seamless data exploration experience.
+
