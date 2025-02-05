@@ -24,3 +24,7 @@ Here is the glimps of the Data:
 After running the model I got this score, which is pretty good for this type of Business problem.
 
 ![image alt](https://github.com/boprosv/Hotel-Booking-Cancellation-Assistant/blob/main/Screenshot%202025-02-05%20125329.png?raw=true)
+
+Added generated probabilities to the original data frame.
+
+![image alt](https://github.com/boprosv/Hotel-Booking-Cancellation-Assistant/blob/main/Screenshot%202025-02-05%20130930.png?raw=true)
