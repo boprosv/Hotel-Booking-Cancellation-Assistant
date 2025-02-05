@@ -37,5 +37,5 @@ This AI-powered web application helps hotel managers and analysts explore and an
 
 The app is built using Streamlit, OpenAI’s GPT model, and Pandas to provide a seamless data exploration experience.
 
-![image alt](https://github.com/boprosv/Hotel-Booking-Cancellation-Assistant/blob/main/Screenshot%202025-02-05%20133430.png?raw=true)
+
 
