@@ -39,3 +39,11 @@ The app is built using Streamlit, OpenAI’s GPT model, and Pandas to provide a 
 
 ![image alt](https://github.com/boprosv/Hotel-Booking-Cancellation-Assistant/blob/main/Screenshot%202025-02-05%20135428.png?raw=true)
 
+🛠 How It Works
+1️⃣ Loads the booking_cancellation_probabilities_full.csv → Full dataset with probabilities..
+2️⃣ Connects to OpenAI (GPT-4-Turbo) to understand user queries in natural language.
+3️⃣ Generates valid Pandas commands to filter, sort, or rank booking data.
+4️⃣ Executes the query on the dataset and displays the results in an interactive table.
+5️⃣ Provides an option to download the results in CSV format.
+6️⃣ Stores chat history so users can track previous questions and responses.
+
