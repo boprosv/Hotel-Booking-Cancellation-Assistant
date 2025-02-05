@@ -17,4 +17,4 @@ Optimizes the model using Optuna (an automated hyperparameter tuning library).
 
 ![image alt](https://github.com/boprosv/Hotel-Booking-Cancellation-Assistant/blob/main/Screenshot%202025-02-05%20123408.png?raw=true)
 Here is the glimps of the Data:
-
+![image alt](https://github.com/boprosv/Hotel-Booking-Cancellation-Assistant/blob/main/Screenshot%202025-02-05%20123552.png?raw=true)
