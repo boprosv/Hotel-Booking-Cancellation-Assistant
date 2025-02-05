@@ -49,9 +49,13 @@ The app is built using Streamlit, OpenAI’s GPT model, and Pandas to provide a 
 
 ![image alt](https://github.com/boprosv/Hotel-Booking-Cancellation-Assistant/blob/main/Screenshot%202025-02-05%20133007.png?raw=true)
 
-You can get all the info by inlarging the window or scrolling.
+You can get all the info by enlarging the window or scrolling.
 
 ![image alt](https://github.com/boprosv/Hotel-Booking-Cancellation-Assistant/blob/main/Screenshot%202025-02-05%20133058.png?raw=true)
 
+
+ Sidebar for Chat Management
+✅ "Start a New Chat" Button: Clears chat history for a fresh start.
+✅ Chat History Section: Stores past queries and results for easy reference.
 
 
