@@ -49,3 +49,7 @@ The app is built using Streamlit, OpenAI’s GPT model, and Pandas to provide a 
 
 ![image alt](https://github.com/boprosv/Hotel-Booking-Cancellation-Assistant/blob/main/Screenshot%202025-02-05%20133007.png?raw=true)
 
+You can get all the info by inlarging the window or scrolling.
+
+
+
