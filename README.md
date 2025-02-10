@@ -61,4 +61,6 @@ You can get all the info by enlarging the window or scrolling.
 ![image alt](https://github.com/boprosv/Hotel-Booking-Cancellation-Assistant/blob/main/Screenshot%202025-02-10%20112103.png?raw=true)
 
 
-A very handy assistant for the management to quickly get information and take appropriate measures (promotions/offers) for potential cancellations and more!
+Data can be updated with the desired frequency and come from different sources. The process can be easily customized to specific needs, including the use of different Machine Learning algorithms.
+
+A very handy assistant to quickly retrieve information and take appropriate measures (such as promotions or offers) for potential cancellations (in this case!) and more!
