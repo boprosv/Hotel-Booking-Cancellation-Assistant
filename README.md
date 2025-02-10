@@ -58,7 +58,7 @@ You can get all the info by enlarging the window or scrolling.
 ✅ "Start a New Chat" Button: Clears chat history for a fresh start.
 ✅ Chat History Section: Stores past queries and results for easy reference.
 
-![image alt](https://github.com/boprosv/Hotel-Booking-Cancellation-Assistant/blob/main/Screenshot%202025-02-05%20141141.png?raw=true)
+![image alt](https://github.com/boprosv/Hotel-Booking-Cancellation-Assistant/blob/main/Screenshot%202025-02-10%20112103.png?raw=true)
 
 
 A very handy assistant for the management to quickly get information and take appropriate measures (promotions/offers) for potential cancellations and more!
