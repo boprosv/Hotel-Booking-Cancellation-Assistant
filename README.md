@@ -47,7 +47,7 @@ The app is built using Streamlit, OpenAI’s GPT model, and Pandas to provide a 
 5️⃣ Provides an option to download the results in CSV format.
 6️⃣ Stores chat history so users can track previous questions and responses.
 
-![image alt](https://github.com/boprosv/Hotel-Booking-Cancellation-Assistant/blob/main/Screenshot%202025-02-05%20133007.png?raw=true)
+![image alt](https://github.com/boprosv/Hotel-Booking-Cancellation-Assistant/blob/main/Screenshot%202025-02-10%20105403.png?raw=true)
 
 You can get all the info by enlarging the window or scrolling.
 
